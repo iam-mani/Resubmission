@@ -1,0 +1,6 @@
+requests==2.26.0
+numpy==1.21.3
+pytest
+selenium==3.141.0
+chromedriver-binary~=93.0.4577.15
+

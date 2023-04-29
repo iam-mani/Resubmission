@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  # modify the services as needed for testing
+  catalog:
+    environment:
+      SPRING_PROFILES_ACTIVE: integration-testing
